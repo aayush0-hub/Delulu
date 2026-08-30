@@ -1,0 +1,8 @@
+{
+  "name": "Delulu",
+  "description": "Connect with people within a 2-kilometer radius for dating and friendship with interactive radar discovery, hangout vibes, and instant chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
